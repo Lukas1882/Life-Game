@@ -8,3 +8,4 @@ In the case of Game of Life, please look up in wiki "http://en.wikipedia.org/wik
 This is a game of life code in Java with GUI and thread. User can input the size of the life map, and can design the first generation of pattern. 
 Everu time when the button is clicked, a new generation will show up.
 
+![image](https://github.com/leaot/Life-Game/blob/master/Snip20141210_27.png)
